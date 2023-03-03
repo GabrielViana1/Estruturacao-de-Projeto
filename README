@@ -1,10 +1,14 @@
 Título: Projeto Moderno com Webpack, Babel, JavaScript, CSS e HTML
 
-Descrição: Este projeto tem como objetivo demonstrar a importância de utilizar as ferramentas certas para estruturar projetos modernos de desenvolvimento web. Para isso, utilizamos o Webpack para gerenciar as dependências do projeto de forma eficiente, agrupando arquivos que dependem uns dos outros e carregando módulos assíncronos sob demanda. Além disso, utilizamos o Babel para escrever código JavaScript moderno e garantir sua compatibilidade com navegadores mais antigos.
+Descrição: Este projeto tem como objetivo demonstrar a importância de utilizar as ferramentas certas para estruturar projetos modernos de desenvolvimento web. 
+Para isso, utilizamos o Webpack para gerenciar as dependências do projeto de forma eficiente, agrupando arquivos que dependem uns dos outros e carregando módulos 
+assíncronos sob demanda. Além disso, utilizamos o Babel para escrever código JavaScript moderno e garantir sua compatibilidade com navegadores mais antigos.
 
-Também foram utilizadas as linguagens CSS e HTML para criar a interface do usuário e apresentar os dados de forma atraente e intuitiva. O resultado é um fluxo de trabalho mais ágil e eficiente, proporcionando uma experiência de desenvolvimento mais agradável e produtiva.
+Também foram utilizadas as linguagens CSS e HTML para criar a interface do usuário e apresentar os dados de forma atraente e intuitiva. O resultado é um fluxo de 
+trabalho mais ágil e eficiente, proporcionando uma experiência de desenvolvimento mais agradável e produtiva.
 
-Este projeto serve como uma base para quem deseja desenvolver projetos modernos com as ferramentas mais atualizadas do mercado. Ele é uma ótima oportunidade para aprender como integrar essas ferramentas em seu fluxo de trabalho e melhorar a qualidade de seus projetos.
+Este projeto serve como uma base para quem deseja desenvolver projetos modernos com as ferramentas mais atualizadas do mercado. Ele é uma ótima oportunidade para 
+aprender como integrar essas ferramentas em seu fluxo de trabalho e melhorar a qualidade de seus projetos.
 
 Principais recursos:
 
@@ -13,4 +17,5 @@ Compatibilidade com navegadores antigos utilizando Babel
 Utilização das linguagens CSS e HTML para criar a interface do usuário
 Estruturação de um projeto moderno de desenvolvimento web
 Exemplo de fluxo de trabalho ágil e eficiente
-Não deixe de conferir o projeto completo e explorar suas possibilidades. Sinta-se à vontade para contribuir com sugestões, melhorias e novas funcionalidades. Juntos, podemos criar projetos ainda mais modernos e eficientes!
+Não deixe de conferir o projeto completo e explorar suas possibilidades. Sinta-se à vontade para contribuir com sugestões, melhorias e novas funcionalidades. 
+Juntos, podemos criar projetos ainda mais modernos e eficientes!
